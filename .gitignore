@@ -1,10 +1,9 @@
 # Secrets — never commit. Set GROQ_API_KEY as a Space secret instead.
 .env
 
-# Personal notes — keep your own PDFs out of a public repo.
 notes/*.pdf
 
-# Generated plots from execute_plot_code — runtime artifacts, not source.
+# Generated plots from execute_plot_code.
 plots/
 
 # Python / OS cruft
